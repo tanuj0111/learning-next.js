@@ -1,7 +1,7 @@
 const Loginteacher =()=>{
     return(
         <div>
-            <h1 className="heading">login page of teachter</h1>
+            <h1 className="heading">login page of teachers</h1>
         </div>
     )
 }
